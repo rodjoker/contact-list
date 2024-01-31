@@ -48,7 +48,7 @@ agregarContacto ("Mat", "Matias Jose","Arevalo Arrieta", +584129446578,"Venezuel
 
 
 /*Crea una función para borrar un contacto existente de la lista*/
-contactos.pop ();
+contactos.pop();
 
 
 /* Ajusta las funciones de crear y eliminar un contacto para que 
